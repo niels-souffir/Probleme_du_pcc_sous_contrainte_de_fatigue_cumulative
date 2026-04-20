@@ -1,0 +1,8 @@
+,small,medium-nofatigue,medium-smallfatigue,medium-largefatigue,large-nofatigue,large-smallfatigue,large-largefatigue
+Dijkstra Simple,1.22,5.06,5.44,5.15,557.86,617.68,
+Dijkstra Extended,2.48,11.17,5755.34,,,,
+Dijkstra Implicit,2.22,10.5,209.63,24081.07,1184.03,1160455.48,
+Pruning,2.19,9.76,30.21,54.67,1296.78,47768.78,240520.66
+Pruning Implicit,2.27,10.99,39.35,67.26,1547.88,68009.32,
+A*,3.01,12.5,54.68,1868.44,1408.57,100731.78,
+A* Implicit,4.69,17.39,79.7,2379.62,1912.53,192936.96,
