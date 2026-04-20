@@ -3,7 +3,7 @@
 
 ## Projet de programmation - 1A ENSAE 2026
 
-Ce dépôt github contient l'implémentation du projet de programmation de 1A à l'ENSAE, dédié à l'optimisation du plus court chemin sous contraintes de fatigue cumulative, via plusiseurs méthodes proposées dans description_projet.pdf
+Ce dépôt github contient l'implémentation du projet de programmation de 1A à l'ENSAE Paris, dédié à l'optimisation du plus court chemin sous contraintes de fatigue cumulative, via plusiseurs méthodes proposées dans description_projet.pdf
 
 ## Membre de l'équipe
 
