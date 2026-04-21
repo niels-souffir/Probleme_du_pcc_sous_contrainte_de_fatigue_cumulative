@@ -50,23 +50,23 @@ Ce projet implémente des algorithmes de plus court chemin sur des graphes orien
 
 **Requirements**:
 - Python 3.8+
-- pandas (data processing)
-- pytest (testing)
-- networkx, matplotlib (visualization - optional)
+- pandas 
+- pytest 
+- networkx, matplotlib
 
-Install dependencies:
+Installer les dépendances:
 ```bash
 pip install -r requirements.txt
 ```
 
-### Running Tests
+### Tests
 
-Run all tests:
+Tourner tous les tests:
 ```bash
 pytest test_graph_network.py -v
 ```
 
-Run specific test:
+Tourner un test spécifique:
 ```bash
 pytest test_graph_network.py::test_name -v
 ```
